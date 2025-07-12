@@ -110,8 +110,10 @@ RecyclerView的使用
 - 如果不想公开，可以在私有仓库的情况下把我们设置成贡献者
   - 点击 Settings - Collaborators - Add people
   - 输入以下学长的 github 名字
-    - 李：lytMoon
-    - 胡：Black-Skyline
+    - 炜：282649458
+    - 游：sanhuzhen
+    - 屈：QTwawa
+    - 七：E-n7777
 - 别忘了前面要求的**每天至少一个commit**
 
 ## 考核选题
